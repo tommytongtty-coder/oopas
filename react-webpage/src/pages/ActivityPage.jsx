@@ -49,7 +49,7 @@ function ActivityCard() {
       <div className="activity-image activity-image-1" aria-hidden="true" />
       <div className="activity-body">
         <h3 className="activity-name">資優兒童協會兒童朗誦及故事比賽（粵語組）</h3>
-        <p className="activity-meta">日期：2026 年 8 月中旬｜形式：現場比賽｜級別：K2 至小四</p>
+        <p className="activity-meta">日期：2026 年 3 月下旬｜形式：現場比賽｜級別：K2 至小六</p>
         <p className="activity-price">報名費用 由 HK$220 起</p>
         <p className="activity-note">以短篇故事及童詩為主題，強調語調、感情投入及眼神交流。</p>
       </div>
